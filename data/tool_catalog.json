@@ -1,0 +1,22 @@
+[
+  {
+    "name": "get_ticket",
+    "write": false,
+    "scope": "tickets.read"
+  },
+  {
+    "name": "search_policy",
+    "write": false,
+    "scope": "knowledge.read"
+  },
+  {
+    "name": "create_refund",
+    "write": true,
+    "scope": "refunds.write"
+  },
+  {
+    "name": "create_incident",
+    "write": true,
+    "scope": "incidents.write"
+  }
+]

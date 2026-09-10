@@ -1,0 +1,27 @@
+[
+  {
+    "id": "A1",
+    "case": "wrong issuer",
+    "expected": "deny"
+  },
+  {
+    "id": "A2",
+    "case": "wrong audience",
+    "expected": "deny"
+  },
+  {
+    "id": "A3",
+    "case": "insufficient scope",
+    "expected": "deny"
+  },
+  {
+    "id": "A4",
+    "case": "employee invokes write tool",
+    "expected": "deny"
+  },
+  {
+    "id": "A5",
+    "case": "rate limit exceeded",
+    "expected": "deny"
+  }
+]

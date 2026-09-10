@@ -1,0 +1,19 @@
+[
+  {
+    "uri": "kb://hr/leave",
+    "name": "Leave Policy",
+    "roles": [
+      "employee",
+      "manager"
+    ],
+    "text": "Employees receive 20 days annual leave."
+  },
+  {
+    "uri": "kb://finance/expenses",
+    "name": "Expense Policy",
+    "roles": [
+      "manager"
+    ],
+    "text": "Expenses above 1000 dollars require director approval."
+  }
+]
